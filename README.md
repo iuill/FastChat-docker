@@ -1,5 +1,7 @@
 # FastChat-docker
 
+see also: https://github.com/lm-sys/FastChat
+
 ## Usage
 
 ```
